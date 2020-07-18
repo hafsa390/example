@@ -1,0 +1,9 @@
+>> git init
+>> git add (Whether you want to add or delete, you need to use this command)
+>> git status (always optional)
+>> git commit -m "some message"(Use this command after git add)
+>> git remote add origin https://github........ (when a new project is being created)
+>> git push 
+
+
+git push -u origin master
